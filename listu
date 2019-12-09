@@ -1,0 +1,17 @@
+#ENTM3U
+#EXTINF:-1,Cinemax
+http://tvnanet.xyz:25461/live/palmeiras/1986/31.m3u8
+#EXTINF:-1,fox
+http://tvnanet.xyz:25461/live/palmeiras/1986/86.m3u8
+#EXTINF:-1,HBO
+http://tvnanet.xyz:25461/live/palmeiras/1986/144.m3u8
+#EXTINF:-1,HBO 2
+http://tvnanet.xyz:25461/live/palmeiras/1986/136.m3u8
+#EXTINF:-1,HBO PLUS
+http://tvnanet.xyz:25461/live/palmeiras/1986/141.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://tvnanet.xyz:25461/live/palmeiras/1986/245.m3u8
+#EXTINF:-1,Telecine Action
+http://tvnanet.xyz:25461/live/palmeiras/1986/239.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/tntseries_3bb18d9a_bfca4caf036850a3d9ab70c7d96e25c2c3f19547.m3u8
