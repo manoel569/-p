@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,COMBATE
+http://tvnanet.xyz:25461/live/palmeiras/1986/34.m3u8
+#EXTINF:-1,CINEMAX
+http://tvnanet.xyz:25461/live/palmeiras/1986/31.m3u8
+#EXTINF:-1,FOX
+http://tvnanet.xyz:25461/live/palmeiras/1986/86.m3u8
+#EXTINF:-1,MEGAPIX
+http://tvnanet.xyz:25461/live/palmeiras/1986/162.m3u8
+#EXTINF:-1,MAX PRIME
+http://tvnanet.xyz:25461/live/palmeiras/1986/155.m3u8
+#EXTINF:-1,MAX
+http://tvnanet.xyz:25461/live/palmeiras/1986/158.m3u8
+#EXTINF:-1,HBO
+http://tvnanet.xyz:25461/live/palmeiras/1986/144.m3u8
+#EXTINF:-1,HBO 2
+http://tvnanet.xyz:25461/live/palmeiras/1986/136.m3u8
+#EXTINF:-1,TELECINE TOUCH
+http://tvnanet.xyz:25461/live/palmeiras/1986/249.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://tvnanet.xyz:25461/live/palmeiras/1986/245.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://tvnanet.xyz:25461/live/palmeiras/1986/239.m3u8
+#EXTINF:-1,RECORD TV
+http://tvnanet.xyz:25461/live/palmeiras/1986/210.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://tvnanet.xyz:25461/live/palmeiras/1986/265.m3u8
